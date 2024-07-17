@@ -38,6 +38,7 @@ $ hexo deploy
 
 
 ### 常用命令[注意以下命令需要切换到blog文件夹(cd blog)执行]
+
 ``` text
 hexo n "文章名称"  => hexo new "文章名称"  #这两个都是创建新文章，前者是简写模式，下同，new后面加一个draft可以生成草稿
 hexo p  => hexo publish  # 发布草稿
